@@ -25,6 +25,5 @@ This class contains the main logic for the SOP and POS calculator, including met
 3. Follow the prompts to interact with the SOP and POS calculator.
 4. Test all functionalities to ensure proper operation.
 
-## Author
-
-Delice Ishimwe
+## Demo Link:
+You can view the demo of this program at: https://youtu.be/xyGmP-WpAmk
