@@ -1,6 +1,6 @@
 # SOP and POS Calculator
 
-## Over
+## Overview
 
 This Java program simulates a console-based version of the SOP (Sum-of-Products) and POS (Product-of-Sums) Calculator. It allows users to fill a truth table with boolean values, then computes and displays the SOP and POS expansions based on the provided truth table.
 
