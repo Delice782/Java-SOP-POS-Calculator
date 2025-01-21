@@ -1,4 +1,5 @@
 
+
 /**
  * Sums-of-Product and Product-of-Sums Calculator Implementation
  * <p>
