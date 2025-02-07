@@ -1,4 +1,4 @@
-/**
+ /**
  * Sums-of-Product and Product-of-Sums Calculator Implementation
  * <p>
  * This Java program simulates a console-based version of the SOP and POS Calculator, where the user
