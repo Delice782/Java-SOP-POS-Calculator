@@ -1,4 +1,3 @@
-
 # SOP and POS Calculator
 
 ## Project Overview
