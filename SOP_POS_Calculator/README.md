@@ -1,4 +1,4 @@
-     
+      
 # SOP and POS Calculator
 
 ## Overview
