@@ -1,4 +1,4 @@
-                                                                    
+                                                                     
 /** 
  * Sums-of-Product and Product-of-Sums Calculator Implementation
  * <p>
@@ -391,6 +391,7 @@ public class SOP_POS {
         return pos.isEmpty() ? "No POS expression (all function values are 1)." : pos;
     }
 }
+
 
 
 
