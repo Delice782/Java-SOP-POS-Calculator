@@ -2,7 +2,7 @@
 /**  
  * Sums-of-Product and Product-of-Sums Calculator Implementation
  * <p>
- * This Java program simulates a console-based version of the SOP and POS Calculator, where the user
+ * This Java program simulates a console-based version of the SOP and POS Calculator, where the user 
  * fills the truth table with boolean values.
  * It is designed for a single user to enter the degreeValue and the function values one input at a tinputMismatchExc.
  * The program continues continues to allow the user to enter the function values until the table slots for function values is filled.
